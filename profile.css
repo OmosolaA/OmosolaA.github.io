@@ -1,0 +1,20 @@
+body{
+	background-color: #ff715b;
+}
+
+
+#school{
+	font-family: 'Anton', sans-serif;
+}
+
+a{
+	font-family: 'Homemade Apple', cursive;
+	border: 1px solid black;
+	color: white;
+}
+
+#name{
+	text-align: center;
+	font-family: 'Homemade Apple', cursive;
+
+}
